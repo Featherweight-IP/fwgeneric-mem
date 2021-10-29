@@ -1,0 +1,12 @@
+package:
+    name: fwgeneric-mem
+    version: None
+    deps:
+        - name: fwprotocol-defs
+          url: https://github.com/Featherweight-IP/fwprotocol-defs.git
+          type: raw
+    dev-deps:
+        - name: fwprotocol-defs
+          url: https://github.com/Featherweight-IP/fwprotocol-defs.git
+          type: raw
+
